@@ -2,8 +2,8 @@ Busão Mendes, é um site destinado a reunir os horários dos ônibus que circul
 
 O site possui uma layout clean e direto, um dos principais motivos para isso é o dificil acesso a internet na região, facilitando então através de poucos cliques, a visualização do horário da linha de ônibus desejada.
 
-Constam no site as linhas de ônibus as empresas:
+Constam no site as linhas de ônibus das empresas:
  - Viação Fenix (conhecido como Lotação);
- - Viação Barra do Pirapi (conhecido como Barrinha);
+ - Viação Barra do Piraí (conhecido como Barrinha);
  - Viação Progresso;
  - Viação Util.
