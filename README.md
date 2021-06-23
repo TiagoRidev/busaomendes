@@ -1,0 +1,1 @@
+Busão Mendes, é um site destinado a reunir os horários dos ônibus que circulam pela pequena cidade de Mendes, localizada na serra do Sul Fluminense do Estado do Rio de Janeiro. 
