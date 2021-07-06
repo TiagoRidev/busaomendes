@@ -18,14 +18,18 @@ header {
     width: 100%;    
     background-color: #F86E3A;
     box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.25);
-
 }
 
 header .cabecalho {
     width: 74vw;  /*1260px*/
     height: 185px;
     margin: 0 auto;
-    background: green;
+  /*  background: green; */
+}
+
+.logoSite {
+    display: flex;
+    align-items: center;
 }
 
 .flex-header {
@@ -34,12 +38,45 @@ header .cabecalho {
     align-items: center;
 }
 
-.flex-menu{
+
+.flex-menu {
+    background-color: #FFB531;
+    display: flex;    
+    height: 80px;    
+    border-radius: 15px 0 0 15px;
+    align-items: center;
+    overflow: hidden;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 4px 0px 5px rgba(0, 0, 0, 0.25);
+
+}
+
+.flex-menu a:hover {
+    background-color: goldenrod;
+}
+
+.flex-menu li + li a{
+    border-left: 2px solid #2E3743;
+}
+
+.item-menu {
+    padding: 40px;
+    font-size: 18px;
+    line-height: 21px;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    text-align: center;
+    color: #47403D;
+
+    
+}
+
+/*
+.flex-menu{    
     background: chartreuse;
     display: flex;
     width: 450px;
-   /* justify-content: space-around; */
-    color: #000;
+    justify-content: space-around; 
+    color: #000; 
 }
 
 .item-menu{
@@ -59,6 +96,8 @@ header .cabecalho {
 .flex-menu li + li a{
     border-left: 2px solid #2E3743;
 }
+
+/*
 
 /***********Main************/
 
